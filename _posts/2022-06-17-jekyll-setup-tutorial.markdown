@@ -8,7 +8,7 @@ categories: Tutorials
 Install Tools
 ---
   
-  1. Follow this `simple installation` process to get [Jekyll][jekyll-docs] installed
+  1. Follow this [simple installation][jekyll-docs] process to get `Jekyll` installed
   2. Install `Ruby` - Simple [Ruby][ruby]
   3. Install `GCC` - Extremely involved -> This is the easy way: [GCC][gcc] 
   4. Install `Make` - [GNU Make][gnu] is a tool which controls the generation of executables and other non-source files -> you can use MinGW installation manager to install Make. Find the packages in the all packages section
