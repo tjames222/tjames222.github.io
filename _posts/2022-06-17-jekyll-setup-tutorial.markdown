@@ -18,9 +18,9 @@ categories: Tutorials
   ### Deploy to GitHub
 	>This is a free way to host a public GitHub repo.
 	
-	1. Follow directions here: [GitHub Pages][github-pages]
-	2. Copy files from `Jekyll setup` into the newly cloned Repo
-	3. Navigate to the URL: In my case it is `https://tjames222.github.io/`
+  1. Follow directions here: [GitHub Pages][github-pages]
+  2. Copy files from `Jekyll setup` into the newly cloned Repo
+  3. Navigate to the URL: In my case it is `https://tjames222.github.io/`
   4. You can also create a custom domain name: [Custom Domain][custom-domain]
 
 [jekyll-docs]: https://jekyllrb.com/docs/
